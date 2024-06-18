@@ -21,7 +21,7 @@ The website is the QR Code component project from FrontendMentor.io. It's displa
 
 ### Screenshot
 
-![QrCode_Website_pic](./design/QRCode_Website_pic.PNG)
+![QRCode_Website_pic](./design/QRCode_Website_pic.PNG)
 
 ### Links
 
