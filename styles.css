@@ -24,12 +24,12 @@ body {
     width: 320px;
     padding: 17px;
     padding-bottom: 20px;
-    border-radius: 6%;
+    border-radius: 5%;
 }
 
 img{
     width: 100%;
-    border-radius: 6%;
+    border-radius: 5%;
 }
 
 .center { 
